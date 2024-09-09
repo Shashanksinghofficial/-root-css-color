@@ -1,0 +1,9 @@
+  :root{
+    --pre:blue;
+  }
+  h1{
+    color:var(--pre);
+  }
+  p{
+    color:var(--pre); 
+  }
